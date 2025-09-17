@@ -11,6 +11,6 @@ git commit -m
 # Add controllers/views
 git add Controllers Views
 git commit -m 
-# Rport 
+# Report 
 git add . 
 git commit -m Report + UML 
